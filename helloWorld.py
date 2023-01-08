@@ -1,5 +1,3 @@
-#Task 2 
+#Task 1
 
-# get user input and print their inputted string
-string = input("Please enter a sentence: ")
-print(string)
+print("Hello World!")
